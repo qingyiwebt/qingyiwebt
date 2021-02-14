@@ -7,9 +7,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Java8-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-v14-orange)
 #### 使用的操作系统：
-![Windows](https://img.shields.io/badge/Windows-10%20|%201909-red)
-![Manjaro](https://img.shields.io/badge/Manjaro-20.1.2%20|%20Xfce-orange)
-![MacOS](https://img.shields.io/badge/MacOS-10.14.6-yellow)
+![Windows](https://img.shields.io/badge/Windows-10%20|%2020H2-red)
+![MacOS](https://img.shields.io/badge/MacOS-11.2-yellow)
 #### 使用的IDE：
 ![C#](https://img.shields.io/badge/C%23-Visual%20Studio%20Mac-yellowgreen)
 ![Java](https://img.shields.io/badge/Java-Android%20Studio-green)
