@@ -29,3 +29,6 @@
 ![Gedit](https://img.shields.io/badge/gEdit-Linux-green)
 ### 然后是我的Github状态：
 ![状态](https://github-readme-stats.vercel.app/api?username=qingyiwebt&show_icons=true)
+
+### 联系方式
+E-Mail: qingyiweb@gmail.com     
