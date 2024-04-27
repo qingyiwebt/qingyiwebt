@@ -1,19 +1,16 @@
-# Hi I'm ZeroNight (aka. Qingyi).
-
-### Technology Stacks
+### 技术栈
 ![C#](https://img.shields.io/badge/C%23-10.0-brightgreen)
-![C++](https://img.shields.io/badge/C++-23-green)
-![Java](https://img.shields.io/badge/Java-with%20OpenJDK-yellowgreen)
-![Kotlin](https://img.shields.io/badge/Kotlin-on%20Jvm-yellow)
+![C++](https://img.shields.io/badge/C++-20-green)
 ![NodeJS](https://img.shields.io/badge/NodeJS-v16-orange)
 
-### Operating Systems
+### 使用的操作系统
 ![Windows](https://img.shields.io/badge/Windows-10-blue)
+![macOS](https://img.shields.io/badge/macOS-14.4-white)
 
-### Games I Play
-![Genshin Impact](https://genshin-card.getloli.com/2/190159714.png)  
+### 玩的游戏
+![Genshin Impact](https://ys.himiku.com/2/190159714.png)  
 ![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-green)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-brightgreen)
 
-### Contact
-E-Mail: [random]@lightwing.eu.org
+### 联系方式
+E-Mail: [任意字符]@lightwing.eu.org
