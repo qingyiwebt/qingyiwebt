@@ -1,6 +1,6 @@
 # Hello, I'm 轻翼 (Qingyi).  
 
-As the 2025 College Entrance Examination has finished, I will begin my try in photography, and in my free time, I will also continue coding.
+Interest in programming, photography, and music.
 
 ### Contact 
 E-Mail: `qyqy at duck.com`  
